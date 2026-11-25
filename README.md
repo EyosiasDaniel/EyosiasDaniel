@@ -40,6 +40,19 @@ I'm undertaking a 45-day engineering challenge to build three practical AI appli
 | CareerForge AI | Intelligent career development and job matching platform | Planned |
 | NutriVision AI | Multimodal food recognition and nutrition analysis | Planned |
 | DocuMind AI | Intelligent document analysis with source-grounded answers | Planned |
+## AI Development Environment
+
+My AI engineering development environment is configured and tested.
+
+- Python 3.12
+- NumPy
+- Pandas
+- Scikit-learn
+- Visual Studio Code
+- Git & GitHub CLI
+- Isolated Python virtual environments
+
+All core Python libraries have been successfully tested.
 
 ## Education
 
