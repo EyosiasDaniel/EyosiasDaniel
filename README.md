@@ -1,5 +1,3 @@
-# EyosiasDaniel
-Computer Science | AI Engineering | Machine Learning | Software Development
 # Hi, I'm Eyosias 👋
 
 ### Computer Science Student | Aspiring AI Engineer | Software Developer
